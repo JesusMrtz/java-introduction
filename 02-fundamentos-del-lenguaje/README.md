@@ -116,3 +116,25 @@ Se le aplica un solo operador, los operadores son `++`, `--`, `+`, `-` y `~`
 ![Operadores aritméticos](./assets/imgs/05.png)
 > Ejemplos de operadores unarios.
 
+
+## Flujo de control
+El flujo de control de Java se define como se ejecuta las instrucciones en un programa. Se divide en tres tipos principales:
+* Secuencial.
+* Condicional.
+* Repetitivo.
+
+### Secuencial.
+Es un flujo básico: las instrucciones se ejecutan en el orden en que aparecen.
+![Flujo secuencial](./assets/imgs/06.png)
+> Ejemplos de un código secuencial.
+
+### Condicional
+Permite tomar desiciones basadas en condiciones.
+![Flujo condicional](./assets/imgs/07.png)
+> Ejemplos de un código condicional.
+
+### Repetitivo
+Repite bloques de código mientras se cumpla una condición.
+![Flujo condicional](./assets/imgs/08.png)
+> Ejemplos de un código repetitivo.
+
